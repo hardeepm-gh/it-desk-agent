@@ -1,7 +1,7 @@
 .env
 __pycache__/
-*.pyc
-.mcp/
-database/tickets.db
-venv/
-.env.local
+*.db
+database/
+HTTPS
+Paste
+Yes
