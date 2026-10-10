@@ -98,4 +98,6 @@ audit_logs(ticket_id, action, note)
 🛠️ Tech Stack
 Python, FastMCP, SQLite, MCP stdio transport, OpenAI (optional)
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/hardeepm-gh-it-desk-agent-168uk2?v=00dd481fc46be4c5f600699dbb93ec7a)](https://m8ven.ai/mcp/hardeepm-gh-it-desk-agent-168uk2?s=readme)
+
 Built by Hardeep Mohan - Demonstrates Agentic AI + MCP for IT Automation
